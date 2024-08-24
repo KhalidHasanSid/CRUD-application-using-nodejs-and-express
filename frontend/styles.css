@@ -1,0 +1,35 @@
+.container{
+    width: 500px;
+    margin-top:100px ;
+}
+
+form{
+    border: 2px solid black;
+    padding: 10px;
+    width: 530px;
+}
+
+ button[type="submit"]{
+margin-left: 190px;
+}
+
+table th,td{
+    padding-right: 30px;
+    padding-bottom: 4px;
+
+}
+
+table{
+    width: 300px;
+    margin: 10px auto;
+
+}
+
+.table-wrapper{
+    max-height: 300px; /* Set the desired max height */
+    overflow-y: auto;
+    overflow-x: hidden;
+    border: 2px solid black;
+    padding: 20px;
+    width: 600px;
+}
